@@ -11,7 +11,12 @@
  3. Responsive CSS
  4. CSS-Flex
 
-View Website:https://saiemhossain.github.io/Custom-Painting/![enter image description here](https://github.com/Saiemhossain/Custom-Painting/blob/main/coverpic.png?raw=true)
+View Website:https://saiemhossain.github.io/Custom-Painting/
+
+
+![enter image description here](https://github.com/Saiemhossain/Custom-Painting/blob/main/coverpic.png?raw=true)
+
+
 
 
 
